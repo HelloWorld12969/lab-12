@@ -1,1 +1,2 @@
-# lab-12
+Name: Imaad Imran
+Registration Number: BSCS25101075
